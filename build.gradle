@@ -20,7 +20,10 @@ allprojects {
         jcenter()
     }
 }
-
+tasks.withType(JavaCompile) {
+    sourceCompatibility = "1.8"
+    targetCompatibility = "1.8"
+}
 task clean(type: Delete) {
     delete rootProject.buildDir
 }

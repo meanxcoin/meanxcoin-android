@@ -1,12 +1,12 @@
-Coinomi Wallet
+meanxcoin Wallet
 ===============
 
-Website: https://coinomi.com
+Website: https://meanxcoin.com
 
-Support: https://coinomi.freshdesk.com/support/home
+Support: https://meanxcoin.freshdesk.com/support/home
 
-Announcements: https://twitter.com/CoinomiWallet
+Announcements: https://twitter.com/meanxcoinWallet
 
-Blog: https://medium.com/@coinomi/
+Blog: https://medium.com/@meanxcoin/
 
-Download Coinomi Wallet: https://play.google.com/store/apps/details?id=com.coinomi.wallet
+Download meanxcoin Wallet: https://play.google.com/store/apps/details?id=com.meanxcoin.wallet
